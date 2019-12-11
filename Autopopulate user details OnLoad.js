@@ -1,4 +1,4 @@
-//Should be set under "Variable Sets > Get_User_Info
+//Should be set under "Catalog Client Scripts"
 
 function onLoad() {
     //Type appropriate comment here, and begin script below
