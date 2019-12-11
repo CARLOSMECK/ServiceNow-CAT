@@ -1,3 +1,6 @@
+////Should be set under "Variable Sets > Get_User_Info
+
+
 function onChange(control, oldValue, newValue, isLoading) {
 	if (isLoading || newValue == '') {
 		return;
