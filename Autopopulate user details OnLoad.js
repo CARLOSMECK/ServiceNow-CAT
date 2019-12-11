@@ -1,3 +1,5 @@
+//Should be set under "Variable Sets > Get_User_Info
+
 function onLoad() {
     //Type appropriate comment here, and begin script below
     var user = g_form.getReference('requested_for', setFields);
